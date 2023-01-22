@@ -40,15 +40,19 @@
                 <ul>
                     <li><a href="#">+1-647-831-1631</a></li>
                     <li><a href="#">sulha@sulhasolutions.com</a></li>
+                    <li> <a href="#"> Terms & Conditions</a> </li>
+                    <li><a href="#"> Privacy policy</a></li>
                 </ul>
             </div>
         </div>
         <div class="footer-copyright">
             <p>2023©️All rights reserved. </p>
-            <ul>
-                <li>Terms & Conditions</li>
-                <li>Privacy policy</li>
-            </ul>
+            <p>*Sulha Solutions is a federal nonprofit corporation in Canada </p>
+            <p> Donate Here
+                <a target="_blank" href="https://www.paypal.com/donate?hosted_button_id=R7Q8RFVNS3ZJU">
+                    <img class="ms-2" src="<?php echo get_template_directory_uri() . '/assets/img/paypal.png' ?>" alt="">
+                </a>
+            </p>
         </div>
     </div>
 </footer>
