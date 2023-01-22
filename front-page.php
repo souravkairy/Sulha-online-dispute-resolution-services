@@ -24,7 +24,7 @@ get_header()
     <div class="container">
         <div class="banner-wrapper">
             <div class="banner-content">
-                <h1>Where muslims find peace together!</h1>
+                <h1>Where Muslims find peace together!</h1>
                 <p>Sulha Solutions is a leading provider of online dispute resolution services for Muslims in Canada and across the world. We provide proficient, efficient and contingent solutions to help resolve your disputes.</p>
                 <a href="#book-frm">SCHEDULE AN APPOINTMENT</a>
             </div>
